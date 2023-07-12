@@ -11,3 +11,5 @@ Heavily Optimized contains almost no visual difference beetween vanilla by defau
  - Fast quit to title screen from singleplayer world by saving it in the background;
  - Fixes a lot of minecraft bugs from bug tracker;
  - Makes chat unreportable (where possible), using No Chat Reports.
+
+Full description avalable on [Modrinth](https://modrinth.com/modpack/hop)
